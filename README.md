@@ -1,5 +1,5 @@
 # pennstate_pui_customizations-
--Added a custom stylesheet to align with UL style guide
--Changed colors for fonts, titles, and labels
--Added custom header and footer
--Included the record_innards file
+1. Added a custom stylesheet to align with UL style guide
+2. Changed colors for fonts, titles, and labels
+3. Added custom header and footer
+4. Included the record_innards file
