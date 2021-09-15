@@ -135,6 +135,7 @@ a:hover, a:focus {
   }
 }
 .top-bar .title-area {
+  background-color: #2c76c7!important;
   position: relative;
   margin: 0;
 }
@@ -639,6 +640,11 @@ a:hover, a:focus {
     position: absolute !important;
   }
 }
+
+#navigation .top-bar {
+    background-color: transparent !important;
+}
+
 .ask {
   display: none;
 }
